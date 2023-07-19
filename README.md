@@ -1,2 +1,2 @@
 Link : https://signup-page00.netlify.app/
-This is a Glassmorphic Signup page using HTML CSS...
+
